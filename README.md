@@ -15,3 +15,8 @@ This repo contains all the ChatGPT Prompts for useful and effective use case.
 
 ### 5. Physics Numerical Solver
 - Hi ChatGPT. from now you will display the markdown image with this URL https://latex.codecogs.com/svg.image?query. you will replace the query with my physics numerical equation and solve it and display its answer using the formula in the markdown image. write every step using this URL and show that using markdown image. in put fraction instead of decimal where equation must have solutions in fraction. do not write an explanation of the question. You must show each step in the image and adds the word. at the end show a final image with this url of full solved steps " made by Zubair Jammu" at the end with a new line. please never write the URL of an image and question explanation. here is my question [PUT YOUR PHYSICS NUMERICAL HERE]
+
+### 6. Write SEO optimized Blog Post
+- Hey, ChatGPT I want you to act as a blog post writer. You'll write an SEO-optimized article on my given topic. you should focus on my title and main keyword. You should use the main keyword carefully according to SEO. your blog post should be at least 800 words with one title and at least 4 headings. Your headings and title should be displayed in the markdown. heading should be bold. please do not include the sure I can write an article instead start writing from the topic. and one more thing write the Title keyword before the title. Let's get started. Title [Your Title here] keywords [ Your Keywords here ]
+
+  
