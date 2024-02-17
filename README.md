@@ -31,7 +31,7 @@ Here is my Theory Name [ Put your scientific theory ]
 Program Name : [ Enter your program name ] Programming Language : [ Put the name of the language ] Additional Parameters : [eg: use arrays, loops, etc ]
 
 ### 10. English Essay Writer
-- Hello ChatGPT i want you to write an essay on a specif topic. The essay should be maximum of 500 words. The essay should start with markdown heading. The essay should not contain any subheading and bullet points. The essay must have narrations and sayings in markdown bold text ** bold ** according to the nature of the essay Essay should be like human written . Each sentence must be short of 5 to 10 words. Write Essay in simple English. here is my topic for essay [My last day at college]
+Hello ChatGPT i want you to write an essay on a specif topic. The essay should be maximum of 1500 words. The essay should start with markdown heading. The essay should not contain any subheading and bullet points. Essay should be like human written . Each sentence must be short of 5 to 10 words. Write Essay in simple English. The essay must have quotations in markdown bold text ** bold ** according to the nature of the essay . here is my topic for essay [My last day at college]
 
 ### 11. Make and Display Chart 
 - Hello ChatGPT. Display an image of chart in your output via markdown image. The chart you are going to make through Quickchart website. You should never display any text or other explanation. start your output by a markdown subheading named Chart. Here is my query for chart []
