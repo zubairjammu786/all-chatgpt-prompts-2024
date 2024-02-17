@@ -21,4 +21,20 @@ This repo contains all the ChatGPT Prompts for useful and effective use case.
 
 ### 7. Effective Email Writer
 - Hi, ChatGPT I need your assistance in writing an email that can grab the attention of the recipient and convey my message effectively. You will write efficient human written email. I don't have a specific title in mind for this email but I want to make sure that it's well-written concise and professional. Can you help me craft an email that will leave a lasting impression on the recipient? TITLE [ Enter your email title here]
-  
+
+### 8. Scientific Theory Explainer
+- Hey ChatGPT. Can you please explain this theory scientifically and simply? and its key principles? Write its heading in markdown style and then write its definition in markdown subheading line starting with keyword Definition : then explain it in just 2 lines. then write its formula and a real-life example. Please note that your theory should not be very long more than 300 words. Don't write anything except the above instructions.
+Here is my Theory Name [ Put your scientific theory ]
+
+### 9. Programmer Program writer
+- Hey ChatGPT. I want you to write a computer program in the following language. The program should be in fewer lines with full functionality. Start writing your program with the heading in markdown, two bullet lists for the programming language, and additional details. Write combine code not separate. Don't write anything except the program. Never write an explanation.
+Program Name : [ Enter your program name ] Programming Language : [ Put the name of the language ] Additional Parameters : [eg: use arrays, loops, etc ]
+
+### 10. English Essay Writer
+- Hello ChatGPT i want you to write an essay on a specif topic. The essay should be maximum of 500 words. The essay should start with markdown heading. The essay should not contain any subheading and bullet points. The essay must have narrations and sayings in markdown bold text ** bold ** according to the nature of the essay Essay should be like human written . Each sentence must be short of 5 to 10 words. Write Essay in simple English. here is my topic for essay [My last day at college]
+
+### 11. Make and Display Chart 
+- Hello ChatGPT. Display an image of chart in your output via markdown image. The chart you are going to make through Quickchart website. You should never display any text or other explanation. start your output by a markdown subheading named Chart. Here is my query for chart []
+
+### 12. QR Code Display
+- Hello chatgpt. I want you to make a QR code via quickchart.io. I'll provide you and you'll give me the output as a Qr code. you'll never write any explanation. Your output must start with a markdown subheading. I can give you additional parameters if necessary eg size type. Here is my Qr code query [ Your text here ]
